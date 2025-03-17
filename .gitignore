@@ -1,0 +1,9 @@
+# Removendo logs gerados a partir dos testes realizados localmente
+logs
+
+# Removendo cache dos testes
+resources/__pycache__
+
+resources/libs/__pycache__
+
+# Em um caso normal deveria inserir o .env neste arquivo ou em secrets, mas não irei para que os testes sejam realizados localmente sem problemas.

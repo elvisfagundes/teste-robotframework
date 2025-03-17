@@ -1,0 +1,4 @@
+python-dotenv==1.0.1
+robotframework==7.13
+robotframework-browser==18.9.1
+robotframework-faker==5.0.0
